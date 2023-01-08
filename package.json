@@ -1,9 +1,12 @@
 {
-  "name": "bigspring-light-nextjs",
-  "description": "a nextjs and tailwindcss SAAS starter template",
+  "name": "veedux",
+  "description": "Software development company which provides web based software applications services or any other software product.",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "author": {
+    "name": "Marko Krtolica",
+    "email": "markokrtolica1989@gmail.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
