@@ -5,49 +5,24 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Services",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
+          "text": "Custom Software Development",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Software Testing and QA",
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Technology Consulting",
           "url": "/pricing"
         }
       ]
@@ -56,16 +31,8 @@
       "name": "Support",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Privacy Policy",
-          "url": "#"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "#"
+          "text": "24h Service",
+          "url": ""
         }
       ]
     }
