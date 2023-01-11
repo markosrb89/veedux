@@ -3,6 +3,7 @@
   "description": "Software development company which provides web based software applications services or any other software product.",
   "version": "1.0.0",
   "private": true,
+  "export": "next export",
   "author": {
     "name": "Marko Krtolica",
     "email": "markokrtolica1989@gmail.com"
